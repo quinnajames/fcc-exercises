@@ -1,3 +1,6 @@
+// FreeCodeCamp Intermediate Algorithm 6 - Pig Latin
+// Solution by Quinn James
+
 function translatePigLatin(str) {
   var vowels = ["A", "E", "I", "O", "U"];
   var firstChar = str.substr(0, 1);

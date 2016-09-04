@@ -1,4 +1,4 @@
-// FreeCodeCamp Intermediate Algorithm 4
+// FreeCodeCamp Intermediate Algorithm 4 - Where Are You
 // Solution by Quinn James
 
 function whereAreYou(collection, source) {
