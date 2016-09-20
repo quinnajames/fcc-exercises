@@ -1,4 +1,4 @@
-//// FreeCodeCamp Advanced Algorithm #2 - Smallest Common Multiple
+//// FreeCodeCamp Advanced Algorithm #3 - Exact Change
 //// Solution by Quinn James
 
 //// TASK:
