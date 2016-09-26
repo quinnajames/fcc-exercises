@@ -1,8 +1,7 @@
-// FreeCodeCamp Intermediate Algorithm 4 - Where Are You
+// FreeCodeCamp Intermediate Algorithm 4 - Wherefore art thou
 // Solution by Quinn James
 
 function whereAreYou(collection, source) {
-  // What's in a name?
   var arr = [];
   for (var coll_elem_ssc = 0; coll_elem_ssc < collection.length; coll_elem_ssc++)
     {

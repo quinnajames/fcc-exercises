@@ -1,4 +1,4 @@
-// FreeCodeCamp Intermediate Algorithm 1 - Finders Keepers
+// FreeCodeCamp Intermediate Algorithm 16 - Finders Keepers
 // Solution by Quinn James
 
 function findElement(arr, func) {

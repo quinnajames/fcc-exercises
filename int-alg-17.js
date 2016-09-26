@@ -1,4 +1,4 @@
-// FreeCodeCamp Intermediate Algorithm 2 - Drop It
+// FreeCodeCamp Intermediate Algorithm 17 - Drop It
 // Solution by Quinn James
 
 function dropElements(arr, func) {
@@ -15,7 +15,7 @@ function dropElements(arr, func) {
       return arr.slice(firstMatch);
 
   }
-  
+
 }
 
 dropElements([1, 2, 3], function(n) {return n < 3; });
